@@ -1,20 +1,13 @@
-# ab
-asasfhgvduyzf
+ # Academic Achievement Evaluation Using Linear Regression
 
-sdf
+~ Developed an ML-based system to predict student final exam performance
 
+~ Uses academic, behavioral, engagement, and demographic data
 
-sdef
-a
-efa
-sdf
+~ Provides actionable insights to help identify students needing support
 
-asedfsef
+~ Demonstrates practical application of machine learning in education
 
-awefd
-asd
-fasd
-f
+~ Part of university coursework in AI & ML
 
 
-sdf
